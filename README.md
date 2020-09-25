@@ -27,7 +27,7 @@ I am currently learning React JS, while working freelance on a promotional websi
 <p align="left">
 This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. The course also developed my front-end knowledge, while gaining holistic awareness on full stack development. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming.</p>
 
-<code align="left">
+<code>
  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="simeo-russo-web-development"><a class="LI-simple-link" href='https://uk.linkedin.com/in/simeo-russo-web-development?trk=profile-badge'>Simeo Russo</a></div>
 </code>
