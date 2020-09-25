@@ -22,4 +22,4 @@ I am currently learning React JS, while working freelance on a promotional websi
 
 <h3 align="left">EDUCATION</h3>
 <p align="left">
-This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. The course also developed my front-end knowledge, while gaining holistic awareness on full stack development. Skills learnt include: ### Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming.</p>
+This full time intensive bootcamp included cloning Airbnb and developing an MVP within a team. The course also developed my front-end knowledge, while gaining holistic awareness on full stack development. Skills learnt include: Ruby on Rails, HTML5, CSS/Sass, API, JavaScript, Bootstrap, SQL, PostgreSQL, AJAX, git, Heroku, pair programming.</p>
