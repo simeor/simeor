@@ -5,7 +5,7 @@ My name is Simeo, a recent graduate of London’s #1 full stack coding bootcamp,
 I am currently learning React JS, while working freelance on a promotional website for new upcoming card game that is due to launch soon.
 
 <h3 align="left">Technologies</h3>
- 
+ <br>
 <p align="left">
 <code>
 <img height="36" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
