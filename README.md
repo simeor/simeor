@@ -3,7 +3,9 @@
 My name is Simeo, a recent graduate of London’s #1 full stack coding bootcamp, currently looking for Junior web development opportunities
 
 I am currently learning React JS, while working freelance on a promotional website for new upcoming card game that is due to launch soon.
-Latest Project : https://youtube-api-app.vercel.app/
+Latest Projects : 
+### Youtube React-app: https://youtube-api-app.vercel.app/
+### Whack A Mole: https://simeor.github.io/Whack-A-Mole/
 
 <h3 align="left">Technologies</h3>
  <br>
