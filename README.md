@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Simeo, a recent graduate of London’s #1 full stack coding bootcamp, currently looking for Junior web development opportunities
+My name is Simeo, a recent graduate of London’s #1 full stack coding bootcamp, currently working as a JavaScript Software Engineer at Jigsaw XYZ
 
 I am currently learning React JS, while working freelance on a promotional website for new upcoming card game that is due to launch soon.
 Latest Projects : 
